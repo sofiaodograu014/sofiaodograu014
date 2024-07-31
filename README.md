@@ -1,7 +1,5 @@
-## Sofia
-mae solteira
-virgem
-
+## Ola amigues
+me chamo sofia e estou criando essa conta forcadamente
 <!--
 **sofiaodograu014/sofiaodograu014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
